@@ -6,3 +6,7 @@ openssl
 openssh
 chrony
 tzdata
+dbus
+qemu-system-x86_64
+libvirt-qemu
+sudo
